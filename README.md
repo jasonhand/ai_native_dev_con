@@ -11,6 +11,6 @@
 
 ### Product
 
-- [Bits AI](https://www.datadoghq.com/product/platform/bits-ai/#assisted-debugging)
+- [Improve developer productivity with code-level fixes with Bits AI](https://www.datadoghq.com/product/platform/bits-ai/#assisted-debugging)
 
 ### Other
