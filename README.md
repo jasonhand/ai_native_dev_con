@@ -22,5 +22,5 @@
 
 ### Research Reports
 
--[DevOps Next: 2024 and Beyond](https://techstrongresearch.com/resources/devops-next-2024-and-beyond/)
--[Ai Augmented Devops Trends Shaping The Future](https://www.tricentis.com/resources/ai-augmented-devops-trends-shaping-the-future)
+- [DevOps Next: 2024 and Beyond](https://techstrongresearch.com/resources/devops-next-2024-and-beyond/)
+- [Ai Augmented Devops Trends Shaping The Future](https://www.tricentis.com/resources/ai-augmented-devops-trends-shaping-the-future)
