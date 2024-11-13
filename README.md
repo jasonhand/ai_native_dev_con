@@ -34,4 +34,4 @@
 - [Toto: Time Series Optimized Transformer for Observability](https://arxiv.org/pdf/2407.07874)
 
 ### YouTube
-- [Generative AI and Observability Automation](https://www.youtube.com/watch?v=Xjhw0VXFGq0)
+- [DASH 2023 Session: Generative AI and Observability Automation](https://www.youtube.com/watch?v=Xjhw0VXFGq0)
