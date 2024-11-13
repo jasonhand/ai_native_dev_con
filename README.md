@@ -8,6 +8,7 @@
 - [Bits AI: Reimagining the way you run operations with autonomous investigations](https://www.datadoghq.com/blog/bits-ai-autonomous-investigations/)
 - [Stay up to date on the latest incidents with Bits AI](https://www.datadoghq.com/blog/bits-ai-for-incident-management/)
 - [Introducing Toto: A state-of-the-art time series foundation model by Datadog](https://www.datadoghq.com/blog/datadog-time-series-foundation-model/)
+- [Datadog named a Leader in 2024 Gartner® Magic Quadrant™ for Observability Platforms](https://www.datadoghq.com/blog/datadog-observability-platforms-gartner-magic-quadrant-2024/)
 
 ### Product
 
@@ -24,3 +25,4 @@
 
 - [DevOps Next: 2024 and Beyond](https://techstrongresearch.com/resources/devops-next-2024-and-beyond/)
 - [Ai Augmented Devops Trends Shaping The Future](https://www.tricentis.com/resources/ai-augmented-devops-trends-shaping-the-future)
+
