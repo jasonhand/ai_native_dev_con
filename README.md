@@ -25,4 +25,5 @@
 
 - [DevOps Next: 2024 and Beyond](https://techstrongresearch.com/resources/devops-next-2024-and-beyond/)
 - [Ai Augmented Devops Trends Shaping The Future](https://www.tricentis.com/resources/ai-augmented-devops-trends-shaping-the-future)
+- [2024 Gartner® Magic Quadrant™ for Digital Experience Monitoring](https://www.datadoghq.com/resources/gartner-magic-quadrant-digital-experience-monitoring-2024/)
 
