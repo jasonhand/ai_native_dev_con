@@ -1,7 +1,12 @@
 # Companion content for "Moderninizing Systems Observability with AI and LLMs"
 
+![image](https://github.com/user-attachments/assets/647e8bd5-f6de-4028-bb7a-fb9a37893e24)
+
 ## Resources
 
+- [Slides .. coming ](https://coming.soon)
+
+  
 ### Datadog Blogs
 
 - [How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems](https://www.datadoghq.com/blog/engineering/llms-for-postmortems/)
