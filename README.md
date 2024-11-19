@@ -34,4 +34,15 @@
 - [Toto: Time Series Optimized Transformer for Observability](https://arxiv.org/pdf/2407.07874)
 
 ### YouTube
+
 - [DASH 2023 Session: Generative AI and Observability Automation](https://www.youtube.com/watch?v=Xjhw0VXFGq0)
+
+### Leading Platform section resources
+
+- [Davis® AI](https://www.dynatrace.com/platform/artificial-intelligence)
+- [Datadog Adds Additional Generative AI Capabilities to Platform](https://devops.com/datadog-adds-additional-generative-ai-capabilities-to-platform)
+- [AI in observability: Advancing system monitoring and performance](https://newrelic.com/blog/how-to-relic/ai-in-observability)
+- [Introduction to Grafana Machine Learning](https://grafana.com/docs/grafana-cloud/alerting-and-irm/machine-learning/intro)
+- [Building an AI Assistant in Splunk Observability Cloud](https://www.splunk.com/en_us/blog/artificial-intelligence/building-an-ai-assistant-in-splunk-observability-cloud.html)
+- [Elastic AI Assistant for Observability](https://elk-factory.com/en/blog-overview/elastic-ai-assistant-for-observability)
+- [The State of AI in Observability Today](https://observability-360.com/article/ViewArticle?id=ai-in-observability)
