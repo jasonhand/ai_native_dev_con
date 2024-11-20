@@ -1,6 +1,6 @@
 # Companion content for "Moderninizing Systems Observability with AI and LLMs"
 
-![image](https://github.com/user-attachments/assets/647e8bd5-f6de-4028-bb7a-fb9a37893e24)
+![image](https://github.com/user-attachments/assets/8dacc3bd-0ad2-462f-add6-7fa35d6cc35d)
 
 ## Resources
 
