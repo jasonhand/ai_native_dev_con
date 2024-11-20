@@ -10,7 +10,6 @@
 
 - [DevOps.com - Survey: Usage of AI Rapidly Expands Once DevOps Teams Adopt](https://devops.com/survey-usage-of-ai-rapidly-expands-once-devops-teams-adopt/)
 - [DevOps.com - Survey Surfaces Spike in Observability Investments Among DevOps Teams](https://devops.com/survey-surfaces-spike-in-observability-investments-among-devops-teams/)
-- [DeepMind’s health team joins Google Health](https://deepmind.google/discover/blog/deepminds-health-team-joins-google-health/)
 - [Anomaly Detection: AI-based Analytics on Industrial Edge](https://www.siemens.com/global/en/products/software/simatic-apps/anomaly-detection.html)
 - [Amount of Data Created Daily (2024)](https://explodingtopics.com/blog/data-generated-per-day)
 - [31 Mind-Blowing Statistics About Big Data For Businesses (2024)](https://www.grepsr.com/blog/31-mind-blowing-statistics-about-big-data-for-businesses-2024/)
