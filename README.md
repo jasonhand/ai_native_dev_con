@@ -25,10 +25,10 @@
 
 ### Datadog Blogs
 
+- [Detect anomalies before they become incidents with Datadog AIOps](https://www.datadoghq.com/blog/early-anomaly-detection-datadog-aiops/)
 - [How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems](https://www.datadoghq.com/blog/engineering/llms-for-postmortems/)
 - [Bits AI: Reimagining the way you run operations with autonomous investigations](https://www.datadoghq.com/blog/bits-ai-autonomous-investigations/)
 - [Stay up to date on the latest incidents with Bits AI](https://www.datadoghq.com/blog/bits-ai-for-incident-management/)
-- [Introducing Toto: A state-of-the-art time series foundation model by Datadog](https://www.datadoghq.com/blog/datadog-time-series-foundation-model/)
 - [Datadog named a Leader in 2024 Gartner® Magic Quadrant™ for Observability Platforms](https://www.datadoghq.com/blog/datadog-observability-platforms-gartner-magic-quadrant-2024/)
 - [Automated root cause analysis with Watchdog RCA](https://www.datadoghq.com/blog/datadog-watchdog-automated-root-cause-analysis/)
 - [Introducing Toto: A state-of-the-art time series foundation model by Datadog](https://www.datadoghq.com/blog/datadog-time-series-foundation-model/)
