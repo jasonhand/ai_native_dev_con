@@ -4,7 +4,7 @@
 
 ## Resources
 
-- [Slides .. coming ](https://coming.soon)
+- [Slides](https://coming.soon)
 
 ### Stats and Data
 
