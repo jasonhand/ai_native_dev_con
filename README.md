@@ -4,7 +4,7 @@
 
 ## Resources
 
-- [Slides](https://coming.soon)
+- [Slides](slides/ModernizingSystemsObservabilityWithAIandLLMs.pdf)
 
 ### Stats and Data
 
