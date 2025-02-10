@@ -6,6 +6,10 @@
 
 - [Slides](slides/ModernizingSystemsObservabilityWithAIandLLMs.pdf)
 
+## Video
+
+[Watch on YouTube](https://youtu.be/LcsGFQr7vqU?si=YEyIHgctNNPbQbqc)
+
 ### Stats and Data
 
 - [DevOps.com - Survey: Usage of AI Rapidly Expands Once DevOps Teams Adopt](https://devops.com/survey-usage-of-ai-rapidly-expands-once-devops-teams-adopt/)
